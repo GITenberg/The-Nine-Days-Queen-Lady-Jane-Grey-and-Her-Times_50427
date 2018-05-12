@@ -1,4 +1,5 @@
 _repo: The-Nine-Days-Queen-Lady-Jane-Grey-and-Her-Times_50427
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -9,6 +10,9 @@ contributor:
       gutenberg_agent_id: '9628'
       url: http://www.gutenberg.org/2009/agents/9628
       wikipedia: http://en.wikipedia.org/wiki/Martin_Sharp_%28journalist%29
+covers:
+- cover_type: archival
+  image_path: 50427-h/images/cover.jpg
 creator:
   author:
     agent_name: Davey, Richard
@@ -19,6 +23,8 @@ creator:
     gutenberg_agent_id: '37950'
     url: http://www.gutenberg.org/2009/agents/37950
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50427#The-Nine-Days-Queen-Lady-Jane-Grey-and-Her-Times
 gutenberg_issued: '2015-11-10'
 gutenberg_type: Text
 identifiers:
